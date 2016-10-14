@@ -7,6 +7,7 @@ public class Lesson10 {
 		System.out.println("Hello Lesson 10");
 		System.out.println("Hello Lesson 10 33");
 		System.out.println("This is test");
+		System.out.println("This is test");
 	}
 
 }
